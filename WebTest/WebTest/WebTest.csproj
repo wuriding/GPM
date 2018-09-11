@@ -183,19 +183,13 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
-    <Content Include="form.html" />
     <Content Include="Global.asax" />
-    <Content Include="home.html" />
-    <Content Include="index.html" />
-    <Content Include="login.html" />
-    <Content Include="main.html" />
-    <Content Include="nav.html" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="table.html" />
+    <Content Include="Views\wuridingDDreadme.txt" />
     <Content Include="zh-cn.js" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
